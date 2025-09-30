@@ -1,0 +1,201 @@
+InvoiceNo,CustomerID,Product,Category,Quantity,Price,Revenue,PaymentMethod,Country
+INV1000,CUST0034,Monitor,Electronics,5,72109.21,360546.05,Debit Card,UK
+INV1001,CUST0035,Headphones,Accessories,1,82401.51,82401.51,Credit Card,USA
+INV1002,CUST0046,Tablet,Electronics,5,65979.07,329895.35,UPI,Germany
+INV1003,CUST0044,Smartwatch,Wearables,1,42198.6,42198.6,Cash on Delivery,USA
+INV1004,CUST0028,Smartwatch,Wearables,2,90823.89,181647.78,Net Banking,UK
+INV1005,CUST0025,Laptop,Electronics,2,15142.47,30284.94,UPI,Canada
+INV1006,CUST0025,Headphones,Accessories,3,64094.17,192282.51,Cash on Delivery,Australia
+INV1007,CUST0027,Keyboard,Accessories,3,17418.72,52256.16,Cash on Delivery,Australia
+INV1008,CUST0027,Mouse,Accessories,4,85187.03,340748.12,UPI,USA
+INV1009,CUST0032,Laptop,Electronics,1,31682.92,31682.92,Credit Card,Australia
+INV1010,CUST0047,Laptop,Electronics,4,50323.5,201294.0,Cash on Delivery,USA
+INV1011,CUST0012,Keyboard,Accessories,2,61724.04,123448.08,Cash on Delivery,USA
+INV1012,CUST0046,Headphones,Accessories,1,14450.06,14450.06,Debit Card,Australia
+INV1013,CUST0012,Headphones,Accessories,4,84996.74,339986.96,Net Banking,Australia
+INV1014,CUST0003,Mouse,Accessories,2,24051.47,48102.94,Credit Card,Canada
+INV1015,CUST0044,Headphones,Accessories,3,70890.08,212670.24,Debit Card,UK
+INV1016,CUST0030,Keyboard,Accessories,3,33902.54,101707.62,Net Banking,Australia
+INV1017,CUST0031,Headphones,Accessories,4,72411.47,289645.88,Debit Card,Germany
+INV1018,CUST0046,Tablet,Electronics,3,21337.28,64011.84,UPI,Germany
+INV1019,CUST0019,Laptop,Electronics,2,66211.38,132422.76,Credit Card,Canada
+INV1020,CUST0026,Monitor,Electronics,4,64381.67,257526.68,Cash on Delivery,Canada
+INV1021,CUST0049,Headphones,Accessories,4,68990.62,275962.48,Cash on Delivery,USA
+INV1022,CUST0005,Tablet,Electronics,3,37998.97,113996.91,Credit Card,UK
+INV1023,CUST0048,Laptop,Electronics,4,41866.05,167464.2,UPI,India
+INV1024,CUST0014,Mouse,Accessories,5,53886.53,269432.65,Net Banking,India
+INV1025,CUST0039,Headphones,Accessories,3,74990.62,224971.86,UPI,USA
+INV1026,CUST0023,Tablet,Electronics,3,52943.97,158831.91,Net Banking,Germany
+INV1027,CUST0019,Monitor,Electronics,3,58902.74,176708.22,Debit Card,UK
+INV1028,CUST0019,Headphones,Accessories,5,6159.71,30798.55,Debit Card,USA
+INV1029,CUST0047,Smartwatch,Wearables,2,15650.38,31300.76,Cash on Delivery,USA
+INV1030,CUST0046,Smartphone,Electronics,3,95918.8,287756.4,UPI,Germany
+INV1031,CUST0032,Laptop,Electronics,2,22101.45,44202.9,Cash on Delivery,India
+INV1032,CUST0011,Smartwatch,Wearables,4,90376.91,361507.64,Credit Card,Canada
+INV1033,CUST0045,Tablet,Electronics,4,45355.3,181421.2,UPI,Australia
+INV1034,CUST0024,Smartphone,Electronics,3,47198.71,141596.13,UPI,Germany
+INV1035,CUST0011,Smartphone,Electronics,4,70289.86,281159.44,Net Banking,Canada
+INV1036,CUST0015,Mouse,Accessories,2,90074.99,180149.98,Cash on Delivery,Germany
+INV1037,CUST0013,Monitor,Electronics,3,94304.41,282913.23,UPI,Canada
+INV1038,CUST0001,Mouse,Accessories,2,23593.38,47186.76,Net Banking,Australia
+INV1039,CUST0002,Smartphone,Electronics,5,24930.58,124652.9,Debit Card,USA
+INV1040,CUST0017,Smartwatch,Wearables,3,8295.23,24885.69,Credit Card,Australia
+INV1041,CUST0047,Tablet,Electronics,2,28847.39,57694.78,UPI,Germany
+INV1042,CUST0043,Laptop,Electronics,1,86879.85,86879.85,Debit Card,Germany
+INV1043,CUST0049,Mouse,Accessories,5,11280.75,56403.75,UPI,India
+INV1044,CUST0032,Smartphone,Electronics,2,54265.81,108531.62,UPI,USA
+INV1045,CUST0016,Tablet,Electronics,2,56498.82,112997.64,UPI,USA
+INV1046,CUST0029,Smartphone,Electronics,4,95914.11,383656.44,UPI,Australia
+INV1047,CUST0011,Mouse,Accessories,5,66145.9,330729.5,Debit Card,Canada
+INV1048,CUST0039,Smartwatch,Wearables,4,69281.42,277125.68,Net Banking,India
+INV1049,CUST0035,Smartphone,Electronics,3,57760.35,173281.05,Credit Card,India
+INV1050,CUST0027,Tablet,Electronics,3,92518.61,277555.83,Cash on Delivery,USA
+INV1051,CUST0004,Laptop,Electronics,4,43717.11,174868.44,Debit Card,Germany
+INV1052,CUST0012,Monitor,Electronics,1,31305.19,31305.19,Debit Card,India
+INV1053,CUST0012,Headphones,Accessories,3,59944.57,179833.71,UPI,India
+INV1054,CUST0019,Laptop,Electronics,5,97291.0,486455.0,Net Banking,UK
+INV1055,CUST0048,Smartphone,Electronics,1,34484.33,34484.33,Net Banking,Canada
+INV1056,CUST0007,Smartwatch,Wearables,3,39598.27,118794.81,Cash on Delivery,India
+INV1057,CUST0022,Smartwatch,Wearables,4,56313.23,225252.92,Credit Card,UK
+INV1058,CUST0028,Mouse,Accessories,2,88090.33,176180.66,Debit Card,Australia
+INV1059,CUST0048,Keyboard,Accessories,2,56991.98,113983.96,Cash on Delivery,USA
+INV1060,CUST0031,Laptop,Electronics,3,9260.31,27780.93,Net Banking,Australia
+INV1061,CUST0011,Monitor,Electronics,1,21499.16,21499.16,Debit Card,USA
+INV1062,CUST0027,Tablet,Electronics,4,94731.75,378927.0,Debit Card,USA
+INV1063,CUST0041,Smartwatch,Wearables,5,47134.07,235670.35,UPI,UK
+INV1064,CUST0028,Smartwatch,Wearables,1,59485.03,59485.03,Net Banking,Canada
+INV1065,CUST0013,Laptop,Electronics,5,65560.12,327800.6,Cash on Delivery,USA
+INV1066,CUST0037,Smartwatch,Wearables,2,38866.44,77732.88,Net Banking,Germany
+INV1067,CUST0006,Mouse,Accessories,2,90067.87,180135.74,Cash on Delivery,USA
+INV1068,CUST0028,Tablet,Electronics,2,59975.5,119951.0,Debit Card,India
+INV1069,CUST0012,Laptop,Electronics,4,9400.41,37601.64,Net Banking,Canada
+INV1070,CUST0030,Smartwatch,Wearables,2,27182.12,54364.24,Debit Card,Canada
+INV1071,CUST0044,Mouse,Accessories,3,17074.79,51224.37,Credit Card,Canada
+INV1072,CUST0020,Tablet,Electronics,3,57042.95,171128.85,UPI,Australia
+INV1073,CUST0033,Smartwatch,Wearables,5,74762.27,373811.35,Net Banking,Australia
+INV1074,CUST0003,Laptop,Electronics,1,42393.98,42393.98,Debit Card,Germany
+INV1075,CUST0019,Smartwatch,Wearables,2,94032.92,188065.84,UPI,Canada
+INV1076,CUST0043,Headphones,Accessories,4,88343.69,353374.76,Debit Card,India
+INV1077,CUST0006,Mouse,Accessories,2,65013.85,130027.7,Debit Card,USA
+INV1078,CUST0038,Laptop,Electronics,2,94641.88,189283.76,Debit Card,Germany
+INV1079,CUST0047,Tablet,Electronics,4,26551.29,106205.16,UPI,Australia
+INV1080,CUST0024,Headphones,Accessories,5,56200.27,281001.35,UPI,Canada
+INV1081,CUST0034,Smartwatch,Wearables,5,53629.71,268148.55,Cash on Delivery,Germany
+INV1082,CUST0040,Smartwatch,Wearables,3,61713.07,185139.21,Cash on Delivery,Australia
+INV1083,CUST0025,Keyboard,Accessories,1,29494.3,29494.3,Credit Card,Australia
+INV1084,CUST0039,Smartphone,Electronics,5,76850.07,384250.35,UPI,UK
+INV1085,CUST0046,Monitor,Electronics,1,11186.23,11186.23,Credit Card,Germany
+INV1086,CUST0001,Laptop,Electronics,1,74481.47,74481.47,Debit Card,Germany
+INV1087,CUST0036,Tablet,Electronics,2,7481.47,14962.94,Debit Card,Australia
+INV1088,CUST0043,Keyboard,Accessories,3,70841.67,212525.01,Net Banking,USA
+INV1089,CUST0029,Monitor,Electronics,5,9521.82,47609.1,UPI,Canada
+INV1090,CUST0044,Keyboard,Accessories,4,86365.19,345460.76,Debit Card,USA
+INV1091,CUST0044,Laptop,Electronics,3,75745.47,227236.41,Debit Card,India
+INV1092,CUST0011,Mouse,Accessories,4,5145.45,20581.8,Net Banking,Canada
+INV1093,CUST0005,Smartphone,Electronics,4,59436.34,237745.36,Net Banking,Australia
+INV1094,CUST0009,Tablet,Electronics,1,5282.15,5282.15,Cash on Delivery,Australia
+INV1095,CUST0008,Monitor,Electronics,3,41103.95,123311.85,Cash on Delivery,India
+INV1096,CUST0046,Headphones,Accessories,4,33140.68,132562.72,Cash on Delivery,Germany
+INV1097,CUST0049,Keyboard,Accessories,5,51919.05,259595.25,UPI,Australia
+INV1098,CUST0014,Mouse,Accessories,1,22976.79,22976.79,Cash on Delivery,USA
+INV1099,CUST0033,Smartphone,Electronics,1,33258.07,33258.07,Credit Card,USA
+INV1100,CUST0021,Headphones,Accessories,1,12980.12,12980.12,Debit Card,USA
+INV1101,CUST0039,Tablet,Electronics,2,27888.65,55777.3,Net Banking,Germany
+INV1102,CUST0037,Mouse,Accessories,2,6121.16,12242.32,Credit Card,UK
+INV1103,CUST0045,Mouse,Accessories,4,91794.52,367178.08,UPI,UK
+INV1104,CUST0043,Smartphone,Electronics,4,6543.83,26175.32,Cash on Delivery,UK
+INV1105,CUST0009,Mouse,Accessories,2,79663.13,159326.26,Credit Card,USA
+INV1106,CUST0001,Headphones,Accessories,2,44247.11,88494.22,Credit Card,Canada
+INV1107,CUST0028,Tablet,Electronics,1,47686.73,47686.73,UPI,Canada
+INV1108,CUST0039,Headphones,Accessories,5,67955.79,339778.95,Debit Card,Australia
+INV1109,CUST0007,Smartphone,Electronics,4,66930.3,267721.2,Cash on Delivery,India
+INV1110,CUST0049,Keyboard,Accessories,3,29312.97,87938.91,Net Banking,Australia
+INV1111,CUST0037,Monitor,Electronics,3,41209.77,123629.31,Net Banking,India
+INV1112,CUST0047,Monitor,Electronics,5,62590.59,312952.95,UPI,UK
+INV1113,CUST0002,Headphones,Accessories,1,68229.8,68229.8,Credit Card,Germany
+INV1114,CUST0028,Headphones,Accessories,2,23305.29,46610.58,Cash on Delivery,Germany
+INV1115,CUST0001,Laptop,Electronics,4,55517.75,222071.0,Credit Card,USA
+INV1116,CUST0012,Laptop,Electronics,1,56026.03,56026.03,Net Banking,Australia
+INV1117,CUST0025,Smartphone,Electronics,4,57554.12,230216.48,Net Banking,USA
+INV1118,CUST0034,Smartwatch,Wearables,1,65180.47,65180.47,Debit Card,Australia
+INV1119,CUST0038,Keyboard,Accessories,2,20447.01,40894.02,Net Banking,India
+INV1120,CUST0006,Tablet,Electronics,1,49037.4,49037.4,Cash on Delivery,Australia
+INV1121,CUST0027,Smartwatch,Wearables,4,90622.73,362490.92,UPI,India
+INV1122,CUST0016,Monitor,Electronics,2,82454.07,164908.14,UPI,USA
+INV1123,CUST0018,Smartwatch,Wearables,1,10712.91,10712.91,Cash on Delivery,USA
+INV1124,CUST0002,Keyboard,Accessories,5,49618.8,248094.0,Credit Card,UK
+INV1125,CUST0033,Smartwatch,Wearables,4,75027.53,300110.12,Credit Card,Canada
+INV1126,CUST0049,Smartphone,Electronics,3,6355.9,19067.7,Cash on Delivery,Germany
+INV1127,CUST0037,Smartphone,Electronics,4,19289.12,77156.48,Credit Card,India
+INV1128,CUST0019,Monitor,Electronics,1,46048.95,46048.95,Debit Card,Germany
+INV1129,CUST0042,Headphones,Accessories,2,96737.05,193474.1,Cash on Delivery,UK
+INV1130,CUST0019,Smartphone,Electronics,2,8177.51,16355.02,Credit Card,UK
+INV1131,CUST0019,Laptop,Electronics,2,59718.47,119436.94,Net Banking,India
+INV1132,CUST0047,Smartphone,Electronics,5,63271.42,316357.1,Net Banking,Australia
+INV1133,CUST0034,Headphones,Accessories,4,55844.06,223376.24,Cash on Delivery,UK
+INV1134,CUST0008,Tablet,Electronics,1,33287.41,33287.41,UPI,UK
+INV1135,CUST0022,Headphones,Accessories,4,46287.14,185148.56,Credit Card,UK
+INV1136,CUST0002,Mouse,Accessories,2,69895.89,139791.78,UPI,UK
+INV1137,CUST0039,Smartwatch,Wearables,5,90275.55,451377.75,UPI,Australia
+INV1138,CUST0047,Smartphone,Electronics,5,58342.02,291710.1,Cash on Delivery,Germany
+INV1139,CUST0031,Headphones,Accessories,2,93196.62,186393.24,Net Banking,Canada
+INV1140,CUST0016,Smartphone,Electronics,2,8269.44,16538.88,Credit Card,Germany
+INV1141,CUST0014,Headphones,Accessories,2,20621.94,41243.88,Net Banking,Germany
+INV1142,CUST0010,Smartphone,Electronics,3,45569.48,136708.44,Cash on Delivery,USA
+INV1143,CUST0009,Tablet,Electronics,3,25092.31,75276.93,Debit Card,Australia
+INV1144,CUST0026,Keyboard,Accessories,2,34755.86,69511.72,Cash on Delivery,Australia
+INV1145,CUST0012,Smartwatch,Wearables,3,24800.1,74400.3,Credit Card,Germany
+INV1146,CUST0049,Smartwatch,Wearables,5,32878.12,164390.6,Credit Card,Germany
+INV1147,CUST0015,Smartwatch,Wearables,3,3145.14,9435.42,Credit Card,Australia
+INV1148,CUST0036,Tablet,Electronics,1,1370.98,1370.98,Net Banking,USA
+INV1149,CUST0039,Keyboard,Accessories,5,36619.87,183099.35,Debit Card,Australia
+INV1150,CUST0002,Monitor,Electronics,3,49828.78,149486.34,Debit Card,USA
+INV1151,CUST0016,Headphones,Accessories,5,14619.08,73095.4,UPI,UK
+INV1152,CUST0012,Headphones,Accessories,3,42284.35,126853.05,Debit Card,Germany
+INV1153,CUST0010,Laptop,Electronics,1,14050.14,14050.14,Credit Card,Australia
+INV1154,CUST0049,Smartwatch,Wearables,1,73867.27,73867.27,Cash on Delivery,UK
+INV1155,CUST0042,Smartwatch,Wearables,1,60488.38,60488.38,Cash on Delivery,Australia
+INV1156,CUST0010,Laptop,Electronics,4,89090.69,356362.76,Credit Card,Australia
+INV1157,CUST0022,Smartphone,Electronics,4,61838.04,247352.16,Debit Card,Canada
+INV1158,CUST0014,Tablet,Electronics,2,81871.65,163743.3,UPI,India
+INV1159,CUST0032,Tablet,Electronics,2,98143.9,196287.8,Cash on Delivery,India
+INV1160,CUST0027,Smartphone,Electronics,3,94566.76,283700.28,UPI,Canada
+INV1161,CUST0002,Headphones,Accessories,2,86622.98,173245.96,Net Banking,USA
+INV1162,CUST0003,Smartwatch,Wearables,4,63610.61,254442.44,Cash on Delivery,UK
+INV1163,CUST0036,Laptop,Electronics,5,28686.57,143432.85,Credit Card,Australia
+INV1164,CUST0014,Smartphone,Electronics,2,641.41,1282.82,Credit Card,India
+INV1165,CUST0032,Headphones,Accessories,2,45056.13,90112.26,Credit Card,Germany
+INV1166,CUST0022,Tablet,Electronics,4,92167.2,368668.8,UPI,Canada
+INV1167,CUST0038,Tablet,Electronics,4,62409.1,249636.4,UPI,USA
+INV1168,CUST0043,Smartphone,Electronics,2,34258.39,68516.78,Cash on Delivery,India
+INV1169,CUST0034,Keyboard,Accessories,4,30012.21,120048.84,Net Banking,India
+INV1170,CUST0013,Smartwatch,Wearables,5,42215.93,211079.65,Net Banking,Australia
+INV1171,CUST0049,Smartwatch,Wearables,1,83037.81,83037.81,Cash on Delivery,UK
+INV1172,CUST0018,Smartphone,Electronics,4,23823.59,95294.36,Credit Card,Canada
+INV1173,CUST0005,Smartphone,Electronics,3,45627.36,136882.08,Credit Card,USA
+INV1174,CUST0004,Keyboard,Accessories,3,56693.04,170079.12,Debit Card,UK
+INV1175,CUST0026,Tablet,Electronics,3,41101.51,123304.53,Credit Card,India
+INV1176,CUST0040,Laptop,Electronics,3,28128.47,84385.41,UPI,UK
+INV1177,CUST0042,Monitor,Electronics,1,76426.7,76426.7,Cash on Delivery,USA
+INV1178,CUST0027,Headphones,Accessories,1,85706.24,85706.24,Cash on Delivery,Australia
+INV1179,CUST0043,Headphones,Accessories,4,46458.61,185834.44,Net Banking,Germany
+INV1180,CUST0009,Tablet,Electronics,3,55160.07,165480.21,Net Banking,Canada
+INV1181,CUST0016,Tablet,Electronics,4,44660.65,178642.6,Net Banking,India
+INV1182,CUST0044,Tablet,Electronics,2,76466.81,152933.62,Cash on Delivery,Canada
+INV1183,CUST0043,Laptop,Electronics,3,94455.93,283367.79,Net Banking,Germany
+INV1184,CUST0033,Monitor,Electronics,5,59823.65,299118.25,Debit Card,Australia
+INV1185,CUST0019,Mouse,Accessories,2,15144.3,30288.6,Debit Card,UK
+INV1186,CUST0005,Headphones,Accessories,2,33828.85,67657.7,Debit Card,Canada
+INV1187,CUST0003,Tablet,Electronics,5,48915.0,244575.0,UPI,UK
+INV1188,CUST0017,Headphones,Accessories,2,79328.91,158657.82,Cash on Delivery,Australia
+INV1189,CUST0001,Laptop,Electronics,5,96696.94,483484.7,Credit Card,Canada
+INV1190,CUST0042,Tablet,Electronics,4,54926.86,219707.44,Credit Card,Canada
+INV1191,CUST0029,Headphones,Accessories,2,96372.22,192744.44,Cash on Delivery,Australia
+INV1192,CUST0038,Headphones,Accessories,4,7414.63,29658.52,UPI,India
+INV1193,CUST0046,Mouse,Accessories,2,83435.65,166871.3,Credit Card,Germany
+INV1194,CUST0024,Mouse,Accessories,5,71477.72,357388.6,Credit Card,India
+INV1195,CUST0003,Smartphone,Electronics,4,10406.52,41626.08,Cash on Delivery,Australia
+INV1196,CUST0016,Keyboard,Accessories,2,73659.58,147319.16,Credit Card,India
+INV1197,CUST0034,Smartphone,Electronics,2,19735.24,39470.48,Debit Card,Germany
+INV1198,CUST0018,Keyboard,Accessories,2,45659.41,91318.82,Net Banking,Australia
+INV1199,CUST0031,Smartphone,Electronics,1,27911.25,27911.25,Credit Card,UK
